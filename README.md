@@ -70,4 +70,5 @@ Codex web is built for repositories: pull requests, refactors, test suites. A lo
 - Introducing the Codex app (OpenAI, February 2, 2026, updated March 4, 2026): openai.com/index/introducing-the-codex-app
 - Getting started with Codex (Dometrain blog): dometrain.com/blog/getting-started-with-codex
 
+
 _Last reviewed: 2026-09-22_
